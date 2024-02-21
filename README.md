@@ -87,6 +87,6 @@ ChatGPT медленно, но верно врывается в мир OSINT. Ч
  - [Image Analysis](https://github.com/sinwindie/OSINT/blob/master/Image%20Analysis/IMAGE%20OSINT%20Attack%20Surface.odg);
  - [Cryptocurrency](https://github.com/sinwindie/OSINT/blob/master/Cryptocurrency/Cryptocurrency%20OSINT%20Attack%20Surface.pdf);
 
-▪️ [Электронная почта (Email): поиск контакта по минимальным данным](https://search.protectmaster.org/Elektronnaya_pochta.html).
-▪️ [Trumail — Проверка email адреса на действительность](https://trumail.io/).
-▪️ [haveIbeenPwned — Дампы](https://haveibeenpwned.com/).
+ - [Электронная почта (Email): поиск контакта по минимальным данным](https://search.protectmaster.org/Elektronnaya_pochta.html).
+ - [Trumail — Проверка email адреса на действительность](https://trumail.io/).
+ - [haveIbeenPwned — Дампы](https://haveibeenpwned.com/).
