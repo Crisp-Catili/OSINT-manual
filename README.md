@@ -8,6 +8,7 @@
 
 # слушаем, смотрим:
 [- Pulse. YouTube канал, который освещает OSINT тематику](https://www.youtube.com/@pulse_os);
+
 [- Bendobrown. Англоязычный YouTube канал c различными кейсами](https://www.youtube.com/@Bendobrown/videos).
 
 # OSINT с ChatGPT
@@ -64,24 +65,28 @@ ChatGPT медленно, но верно врывается в мир OSINT. Ч
  - [MISC](https://github.com/sinwindie/OSINT/tree/master/MISC);
  - [Gettr](https://github.com/sinwindie/OSINT/blob/master/Gettr/Gettr%20OSINT%20Attack%20Surface.pdf);
  - [Email](https://github.com/sinwindie/OSINT/blob/master/Email/EMAIL%20OSINT%20Attack%20Surface.pdf);
- - Skype;
- - TikTok;
- - Phone;
- - Reddit;
- - Github;
- - Tumblr;
- - Twitter;
- - Person;
- - Discord;
- - Youtube;
- - LinkedIn;
- - Pinterest;
- - Websites;
- - OpenSea;
- - Snapchat;
- - DarkWeb;
- - Instagram;
- - Mastodon;
- - Username;
- - Image Analysis;
- - Cryptocurrency;
+ - [Skype](https://github.com/sinwindie/OSINT/blob/master/Skype/Skype%20OSINT%20Attack%20Surface.pdf);
+ - [TikTok](https://github.com/sinwindie/OSINT/tree/master/TikTok);
+ - [Phone](https://github.com/sinwindie/OSINT/blob/master/Phone/Telephone%20Number%20OSINT%20Attack%20Surface.pdf);
+ - [Reddit](https://github.com/sinwindie/OSINT/blob/master/Reddit/Reddit%20OSINT%20Techniques.pdf);
+ - [Github](https://github.com/sinwindie/OSINT/blob/master/Github/Github%20OSINT%20Attack%20Surface.pdf);
+ - [Tumblr](https://github.com/sinwindie/OSINT/tree/master/Tumblr);
+ - [Twitter](https://github.com/sinwindie/OSINT/blob/master/Twitter/Twitter%20OSINT%20Attack%20Surface.pdf);
+ - [Person](https://github.com/sinwindie/OSINT/blob/master/Person/Person%20OSINT%20Attack%20Surface.pdf);
+ - [Discord](https://github.com/sinwindie/OSINT/blob/master/Discord/Discord%20OSINT%20Attack%20Surface.pdf);
+ - [Youtube](https://github.com/sinwindie/OSINT/blob/master/Youtube/Youtube%20OSINT%20Attack%20Surface.pdf);
+ - [LinkedIn](https://github.com/sinwindie/OSINT/blob/master/LinkedIn/LinkedIn%20OSINT%20Techniques%20Part%20I%20and%20II.pdf);
+ - [Pinterest](https://github.com/sinwindie/OSINT/blob/master/Pinterest/Pinterest%20OSINT%20Attack%20Surface.pdf);
+ - [Websites](https://github.com/sinwindie/OSINT/blob/master/Websites/Website%20OSINT%20Attack%20Surface.pdf);
+ - [OpenSea](https://github.com/sinwindie/OSINT/blob/master/OpenSea/OpenSea%20OSINT%20Attack%20Surface.pdf);
+ - [Snapchat](https://github.com/sinwindie/OSINT/blob/master/Snapchat/Snapchat%20OSINT%20Attack%20Surface.pdf);
+ - [DarkWeb](https://github.com/sinwindie/OSINT/blob/master/DarkWeb/DWM%20OSINT%20Attack%20Surface.pdf);
+ - [Instagram](https://github.com/sinwindie/OSINT/blob/master/Instagram/Instagram%20OSINT%20Attack%20Surface.pdf);
+ - [Mastodon](https://github.com/sinwindie/OSINT/blob/master/Mastodon/Mastodon%20OSINT%20Attack%20Surface.pdf);
+ - [Username](https://github.com/sinwindie/OSINT/blob/master/Username/USERNAME%20OSINT%20Attack%20Surface.pdf);
+ - [Image Analysis](https://github.com/sinwindie/OSINT/blob/master/Image%20Analysis/IMAGE%20OSINT%20Attack%20Surface.odg);
+ - [Cryptocurrency](https://github.com/sinwindie/OSINT/blob/master/Cryptocurrency/Cryptocurrency%20OSINT%20Attack%20Surface.pdf);
+
+▪️ [Электронная почта (Email): поиск контакта по минимальным данным](https://search.protectmaster.org/Elektronnaya_pochta.html).
+▪️ [Trumail — Проверка email адреса на действительность](https://trumail.io/).
+▪️ [haveIbeenPwned — Дампы](https://haveibeenpwned.com/).
